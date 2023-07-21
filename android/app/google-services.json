@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "67342816070",
+    "project_id": "quotesapp-5ded3",
+    "storage_bucket": "quotesapp-5ded3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67342816070:android:5d0a729c23d087559f4b47",
+        "android_client_info": {
+          "package_name": "com.qupotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67342816070-815rfoilm5q8t26jg524vkeuplgdltse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qupotes",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "67342816070-kllo79ggsvv393oj4oj4h6bjn2344j50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpfuHbSkMRxWfM65ik6tqo8SfCwOsGzO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67342816070-kllo79ggsvv393oj4oj4h6bjn2344j50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
